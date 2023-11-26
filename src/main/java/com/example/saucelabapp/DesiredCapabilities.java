@@ -1,4 +1,4 @@
-package com.example.appiumproject;
+package com.example.saucelabapp;
 
 import io.appium.java_client.android.options.UiAutomator2Options;
 
